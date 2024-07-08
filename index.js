@@ -50,7 +50,7 @@ async function StartServer(){
 }
 
 function Testing(){
-    return 1;
+    return 0;
 }  
 Testing();
 StartServer();
